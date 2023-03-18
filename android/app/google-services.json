@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689661273636",
+    "firebase_url": "https://earthexp-8259f-default-rtdb.firebaseio.com",
+    "project_id": "earthexp-8259f",
+    "storage_bucket": "earthexp-8259f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689661273636:android:42ed7cfb8ae7e5d01e1ab1",
+        "android_client_info": {
+          "package_name": "io.lunchclub.earthexpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689661273636-fjv0cfhd26ejf023ms5c5c16pj0jcgr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBluquHd9qy3hINtPbVFL59zoP0QSTWHig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689661273636-fjv0cfhd26ejf023ms5c5c16pj0jcgr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
